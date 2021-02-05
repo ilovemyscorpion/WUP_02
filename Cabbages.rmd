@@ -41,6 +41,8 @@ basicCN <- ggplot(veggy,aes(x=Cult,y=VitC))
 basicCN + geom_boxplot()
 ```
 
+The box plot above shows the results of the cultivation methods, displays the median along with the first and third quartile.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -64,3 +66,5 @@ p- value= 0.00000003405 thus it is an extremely small number. The null hypothese
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We can conclude that the cultivation method of c52 is greater than the cultivation method of c39 meaning the cultivation methods do have a difference to produce these results.
